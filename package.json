@@ -1,0 +1,20 @@
+{
+  "name": "first-website",
+  "version": "1.0.0",
+  "description": "a demo version of the first webpage",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahyarCode/Advanced-Dom-Manipulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahyarCode/Advanced-Dom-Manipulation/issues"
+  },
+  "homepage": "https://github.com/MahyarCode/Advanced-Dom-Manipulation#readme"
+}
