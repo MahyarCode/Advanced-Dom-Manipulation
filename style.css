@@ -672,3 +672,13 @@ h4 {
   font-size: 1.5rem;
   font-weight: 400;
 }
+
+.cookie {
+  background-color : #d8d8d8ff;
+  width : 103%;
+  text-align : center;
+  font-family : Poppins;
+  color : #4bbb7d;
+  font-weight : bold;
+  font-size : 18px;
+}
